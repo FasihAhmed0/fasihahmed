@@ -23,8 +23,8 @@ I’m a passionate software engineer with a strong foundation in building scalab
 
 Here are a few things I'm working on or have built:
 
-- 📊 **[Financial Dashboard]** – React + .NET-based dashboard for visualizing financial data (internal project).  
-- 🧾 **Invoice Generator** – A Python app to auto-generate PDF invoices using user data.  
+- 📊 **[VPS Employer Portal]** – React + .NET-based dashboard for Provident Funds Pension Scheme visualizing and adding financial data (internal project).  
+- 🗃️ **Centralized File Storage System** – A Python + FastAPI-based internal tool for consolidating file uploads from multiple sources within the company. It ensures uniform naming conventions, standardized file sizes, and consistent directory structures. Built to streamline internal storage processes and improve data organization at MCB Funds. (internal project)
 - 📂 **GitHub Repo Organizer** – Script that auto-organizes GitHub repos using GitHub API.  
 
 > More coming soon as I publish more of my work publicly!
@@ -41,7 +41,7 @@ Here are a few things I'm working on or have built:
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fasih-ahmed-ab75a120b)  
-- 📧 fasihism@gmail.com
+- 📧 Email : fasihism@gmail.com
 
 ---
 
